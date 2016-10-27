@@ -1,0 +1,152 @@
+################################################### 
+Started Writing at: 1h 36m 53s 
+
+##1h:37m:3s: -> Total beacon packets are = 528: 
+       - Name: 'HOL_TC_7', Count: 87, Average: 16.48%
+       - Name: 'Oxygen-73281', Count: 89, Average: 16.86%
+       - Name: 'Wind WiFi MzhZsM', Count: 88, Average: 16.67%
+       - Name: 'ThomsonBA510C', Count: 86, Average: 16.29%
+       - Name: 'Jote', Count: 54, Average: 10.23%
+       - Name: 'Thrilaras7', Count: 24, Average: 4.55%
+       - Name: 'morenita', Count: 64, Average: 12.12%
+       - Name: 'Mcguffin', Count: 33, Average: 6.25%
+       - Name: 'HOL_ZTE_4', Count: 2, Average: 0.38%
+       - Name: 'OTEdc6be0', Count: 1, Average: 0.19%
+
+##1h:37m:13s: -> Total beacon packets are = 562: 
+       - Name: 'HOL_TC_7', Count: 96, Average: 17.08%
+       - Name: 'Oxygen-73281', Count: 94, Average: 16.73%
+       - Name: 'Wind WiFi MzhZsM', Count: 96, Average: 17.08%
+       - Name: 'ThomsonBA510C', Count: 98, Average: 17.44%
+       - Name: 'Mcguffin', Count: 49, Average: 8.72%
+       - Name: 'morenita', Count: 48, Average: 8.54%
+       - Name: 'Thrilaras7', Count: 37, Average: 6.58%
+       - Name: 'Jote', Count: 39, Average: 6.94%
+       - Name: 'HOL_ZTE_4', Count: 4, Average: 0.71%
+       - Name: 'sotirischristos', Count: 1, Average: 0.18%
+
+##1h:37m:23s: -> Total beacon packets are = 557: 
+       - Name: 'HOL_TC_7', Count: 92, Average: 16.52%
+       - Name: 'Oxygen-73281', Count: 95, Average: 17.06%
+       - Name: 'Wind WiFi MzhZsM', Count: 97, Average: 17.41%
+       - Name: 'ThomsonBA510C', Count: 93, Average: 16.70%
+       - Name: 'Thrilaras7', Count: 40, Average: 7.18%
+       - Name: 'Mcguffin', Count: 59, Average: 10.59%
+       - Name: 'morenita', Count: 45, Average: 8.08%
+       - Name: 'Jote', Count: 28, Average: 5.03%
+       - Name: 'HOL_ZTE_4', Count: 7, Average: 1.26%
+       - Name: 'sotirischristos', Count: 1, Average: 0.18%
+
+##1h:37m:33s: -> Total beacon packets are = 484: 
+       - Name: 'Wind WiFi MzhZsM', Count: 97, Average: 20.04%
+       - Name: 'ThomsonBA510C', Count: 94, Average: 19.42%
+       - Name: 'Thrilaras7', Count: 13, Average: 2.69%
+       - Name: 'HOL_TC_7', Count: 92, Average: 19.01%
+       - Name: 'Oxygen-73281', Count: 81, Average: 16.74%
+       - Name: 'Jote', Count: 23, Average: 4.75%
+       - Name: 'morenita', Count: 58, Average: 11.98%
+       - Name: 'Mcguffin', Count: 23, Average: 4.75%
+       - Name: 'HOL_ZTE_4', Count: 3, Average: 0.62%
+
+##1h:37m:43s: -> Total beacon packets are = 459: 
+       - Name: 'HOL_TC_7', Count: 70, Average: 15.25%
+       - Name: 'Oxygen-73281', Count: 81, Average: 17.65%
+       - Name: 'Wind WiFi MzhZsM', Count: 97, Average: 21.13%
+       - Name: 'morenita', Count: 48, Average: 10.46%
+       - Name: 'ThomsonBA510C', Count: 95, Average: 20.70%
+       - Name: 'Jote', Count: 22, Average: 4.79%
+       - Name: 'HOL_ZTE_4', Count: 8, Average: 1.74%
+       - Name: 'OTEdc6be0', Count: 3, Average: 0.65%
+       - Name: 'Mcguffin', Count: 33, Average: 7.19%
+       - Name: 'Thrilaras7', Count: 2, Average: 0.44%
+################################################### 
+Started Writing at: 1h 40m 20s 
+
+##1h:40m:20s: -> Total beacon packets are = 1: 
+       - Name: 'HOL_ZTE_4', Count: 1, Average: 100.00%
+Finished at: 1h 40m 20s 
+
+################################################### 
+Started Writing at: 1h 41m 7s 
+
+##1h:41m:17s: -> Total beacon packets are = 616: 
+       - Name: 'HOL_ZTE_4', Count: 92, Average: 14.94%
+       - Name: 'OTEdc6be0', Count: 31, Average: 5.03%
+       - Name: 'Wind WiFi MzhZsM', Count: 93, Average: 15.10%
+       - Name: 'morenita', Count: 49, Average: 7.95%
+       - Name: 'ThomsonBA510C', Count: 92, Average: 14.94%
+       - Name: 'Mcguffin', Count: 74, Average: 12.01%
+       - Name: 'HOL_TC_7', Count: 94, Average: 15.26%
+       - Name: 'Oxygen-73281', Count: 90, Average: 14.61%
+       - Name: 'sotirischristos', Count: 1, Average: 0.16%
+
+##1h:41m:27s: -> Total beacon packets are = 662: 
+       - Name: 'Wind WiFi MzhZsM', Count: 96, Average: 14.50%
+       - Name: 'morenita', Count: 58, Average: 8.76%
+       - Name: 'ThomsonBA510C', Count: 96, Average: 14.50%
+       - Name: 'Mcguffin', Count: 85, Average: 12.84%
+       - Name: 'HOL_TC_7', Count: 98, Average: 14.80%
+       - Name: 'Oxygen-73281', Count: 96, Average: 14.50%
+       - Name: 'HOL_ZTE_4', Count: 97, Average: 14.65%
+       - Name: 'OTEdc6be0', Count: 36, Average: 5.44%
+
+##1h:41m:37s: -> Total beacon packets are = 677: 
+       - Name: 'Oxygen-73281', Count: 98, Average: 14.48%
+       - Name: 'HOL_ZTE_4', Count: 97, Average: 14.33%
+       - Name: 'Wind WiFi MzhZsM', Count: 95, Average: 14.03%
+       - Name: 'morenita', Count: 62, Average: 9.16%
+       - Name: 'ThomsonBA510C', Count: 98, Average: 14.48%
+       - Name: 'HOL_TC_7', Count: 97, Average: 14.33%
+       - Name: 'OTEdc6be0', Count: 45, Average: 6.65%
+       - Name: 'Mcguffin', Count: 71, Average: 10.49%
+       - Name: 'Jote', Count: 2, Average: 0.30%
+       - Name: 'Thrilaras7', Count: 11, Average: 1.62%
+       - Name: 'sotirischristos', Count: 1, Average: 0.15%
+
+##1h:41m:47s: -> Total beacon packets are = 711: 
+       - Name: 'Mcguffin', Count: 80, Average: 11.25%
+       - Name: 'HOL_TC_7', Count: 96, Average: 13.50%
+       - Name: 'Oxygen-73281', Count: 98, Average: 13.78%
+       - Name: 'HOL_ZTE_4', Count: 97, Average: 13.64%
+       - Name: 'Wind WiFi MzhZsM', Count: 95, Average: 13.36%
+       - Name: 'morenita', Count: 60, Average: 8.44%
+       - Name: 'ThomsonBA510C', Count: 96, Average: 13.50%
+       - Name: 'OTEdc6be0', Count: 74, Average: 10.41%
+       - Name: 'Thrilaras7', Count: 15, Average: 2.11%
+
+##1h:41m:57s: -> Total beacon packets are = 717: 
+       - Name: 'OTEdc6be0', Count: 88, Average: 12.27%
+       - Name: 'Wind WiFi MzhZsM', Count: 98, Average: 13.67%
+       - Name: 'ThomsonBA510C', Count: 94, Average: 13.11%
+       - Name: 'Mcguffin', Count: 81, Average: 11.30%
+       - Name: 'HOL_TC_7', Count: 98, Average: 13.67%
+       - Name: 'Oxygen-73281', Count: 95, Average: 13.25%
+       - Name: 'HOL_ZTE_4', Count: 96, Average: 13.39%
+       - Name: 'morenita', Count: 57, Average: 7.95%
+       - Name: 'Thrilaras7', Count: 8, Average: 1.12%
+       - Name: 'Jote', Count: 2, Average: 0.28%
+
+##1h:42m:7s: -> Total beacon packets are = 724: 
+       - Name: 'Oxygen-73281', Count: 96, Average: 13.26%
+       - Name: 'HOL_ZTE_4', Count: 95, Average: 13.12%
+       - Name: 'OTEdc6be0', Count: 93, Average: 12.85%
+       - Name: 'Wind WiFi MzhZsM', Count: 97, Average: 13.40%
+       - Name: 'morenita', Count: 61, Average: 8.43%
+       - Name: 'ThomsonBA510C', Count: 95, Average: 13.12%
+       - Name: 'Mcguffin', Count: 81, Average: 11.19%
+       - Name: 'HOL_TC_7', Count: 95, Average: 13.12%
+       - Name: 'Thrilaras7', Count: 10, Average: 1.38%
+       - Name: 'sotirischristos', Count: 1, Average: 0.14%
+
+##1h:42m:8s: -> Total beacon packets are = 139: 
+       - Name: 'Mcguffin', Count: 17, Average: 12.23%
+       - Name: 'HOL_TC_7', Count: 18, Average: 12.95%
+       - Name: 'Oxygen-73281', Count: 19, Average: 13.67%
+       - Name: 'HOL_ZTE_4', Count: 19, Average: 13.67%
+       - Name: 'OTEdc6be0', Count: 19, Average: 13.67%
+       - Name: 'morenita', Count: 11, Average: 7.91%
+       - Name: 'ThomsonBA510C', Count: 18, Average: 12.95%
+       - Name: 'Thrilaras7', Count: 1, Average: 0.72%
+       - Name: 'Wind WiFi MzhZsM', Count: 17, Average: 12.23%
+Finished at: 1h 42m 8s 
+
